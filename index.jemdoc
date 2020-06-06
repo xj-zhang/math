@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Xiongjun Zhang
+
+~~~
+{}{img_left}{mh.PNG}{alt text}{200px}{200px}{IMGLINKTARGET}
+Assistant Professor \n
+School of Mathematics and Statistics \n
+Central China Normal University\n
+Wuhan 430079, P.R. China \n
+Email: xjzhang@mail.ccnu.edu.cn \n
+~~~
+
+\n
+My [https://orcid.org/0000-0002-5387-4129 ORCID]\n
+My [https://scholar.google.com/citations?user=9IQ2e6QAAAAJ&hl=en&oi=sra Google Scholar]\n
+
+== Research Areas
+- Image Processing
+- Tensor Optimization
+- Machine Learning
