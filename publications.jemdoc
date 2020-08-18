@@ -1,10 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Papers
 
+== Preprint
+
+1. *Xiongjun Zhang* and Michael K. Ng. Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations, 
+2020. [https://arxiv.org/abs/2007.10626 arXiv] \n
+2. Junjun Pan, Michael K. Ng, Ye Liu, *Xiongjun Zhang*, Hong Yan. Orthogonal Nonnegative Tucker Decomposition, 2019. 
+[https://arxiv.org/abs/1910.09979 arXiv]
+
 == Publications
 
-13. Xi-Le Zhao, Hao Zhang, Tai-Xiang Jiang, Michael K. Ng, and *Xiongjun Zhang*. Fast Algorithm with Theoretical Guarantees for 
-Constrained Low-Tubal-Rank Tensor Recovery in Hyperspectral Images Denoising, /Neurocomputing/, accepted, 2020. \n
+13. Xi-Le Zhao, Hao Zhang, Tai-Xiang Jiang, Michael K. Ng, and *Xiongjun Zhang*. [https://www.sciencedirect.com/science/article/abs/pii/S0925231220311292
+Fast Algorithm with Theoretical Guarantees for 
+Constrained Low-Tubal-Rank Tensor Recovery in Hyperspectral Images Denoising], /Neurocomputing/, 413:397-409, 2020. \n
 12. Guang-Jing Song, Michael K. Ng, and *Xiongjun Zhang*. 
 [https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2299  Robust Tensor Completion Using Transformed Tensor Singular Value Decomposition],
  /Numerical Linear Algebra with Applications/, 27(3):e2299, 2020.  \n
