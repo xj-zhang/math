@@ -5,11 +5,13 @@
 
 1. *Xiongjun Zhang* and Michael K. Ng. Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations, 
 2020. [https://arxiv.org/abs/2007.10626 arXiv] \n
-2. Junjun Pan, Michael K. Ng, Ye Liu, *Xiongjun Zhang*, Hong Yan. Orthogonal Nonnegative Tucker Decomposition, 2019. 
-[https://arxiv.org/abs/1910.09979 arXiv]
+
 
 == Publications
 
+14. Junjun Pan, Michael K. Ng, Ye Liu, *Xiongjun Zhang*, and Hong Yan. Orthogonal Nonnegative Tucker Decomposition, 
+SIAM Journal on Scientific Computing, accepted, 2020. 
+[https://arxiv.org/abs/1910.09979 arXiv]  \n
 13. Xi-Le Zhao, Hao Zhang, Tai-Xiang Jiang, Michael K. Ng, and *Xiongjun Zhang*. [https://www.sciencedirect.com/science/article/abs/pii/S0925231220311292
 Fast Algorithm with Theoretical Guarantees for 
 Constrained Low-Tubal-Rank Tensor Recovery in Hyperspectral Images Denoising], /Neurocomputing/, 413:397-409, 2020. \n
