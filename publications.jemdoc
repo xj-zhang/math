@@ -11,16 +11,15 @@
 == Publications
 
 . Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://iopscience.iop.org/article/10.1088/1361-6420/abd85b Nonlocal Robust Tensor Recovery with Nonconvex Regularization], /Inverse Problems/, accepted, 2021. \n
-. Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. Robust Low-Rank Tensor Completion via Transformed Tensor Nuclear Norm with Total Variation Regularization, /Neurocomputing/, accepted, 2021. \n
-. Junjun Pan, Michael K. Ng, Ye Liu, Xiongjun Zhang, and Hong Yan. Orthogonal Nonnegative Tucker Decomposition, 
-/SIAM Journal on Scientific Computing/, accepted, 2021. 
-[https://arxiv.org/abs/1910.09979 arXiv]  \n
+. Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0925231220320221 Robust Low-Rank Tensor Completion via Transformed Tensor Nuclear Norm with Total Variation Regularization], /Neurocomputing/, accepted, 2021. \n
+. Junjun Pan, Michael K. Ng, Ye Liu, Xiongjun Zhang, and Hong Yan. [https://epubs.siam.org/doi/abs/10.1137/19M1294708 Orthogonal Nonnegative Tucker Decomposition], 
+/SIAM Journal on Scientific Computing/, 43(1):B55-B81, 2021.  \n
 . Xi-Le Zhao, Hao Zhang, Tai-Xiang Jiang, Michael K. Ng, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0925231220311292
 Fast Algorithm with Theoretical Guarantees for 
 Constrained Low-Tubal-Rank Tensor Recovery in Hyperspectral Images Denoising], /Neurocomputing/, 413:397-409, 2020. \n
 . Guangjing Song, Michael K. Ng, and Xiongjun Zhang. 
 [https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2299  Robust Tensor Completion Using Transformed Tensor Singular Value Decomposition],
- /Numerical Linear Algebra with Applications/, 27(3):e2299, 2020.  \n
+ /Numerical Linear Algebra with Applications/, 27(3):e2299, 2020. [https://github.com/xjzhang008/Transformed-Tensor-SVD/archive/main.zip Code]  \n
 . Michael K. Ng, Xiongjun Zhang, and Xi-Le Zhao. [https://www.sciencedirect.com/science/article/abs/pii/S0031320319304819?via%3Dihub
 Patched-Tubes Unitary Transform for Robust Tensor Completion], /Pattern Recognition/, 100:107181, 2020. \n
 . Xiongjun Zhang and Michael K. Ng. [https://epubs.siam.org/doi/10.1137/18M1202311 
@@ -28,7 +27,7 @@ A Corrected Tensor Nuclear Norm Minimization Method for Noisy Low-Rank Tensor Co
 /SIAM Journal on Imaging Sciences/, 12(2):1231-1273, 2019. \n
 . Xiongjun Zhang. [https://ieeexplore.ieee.org/document/8497036 A Nonconvex Relaxation Approach to Low-Rank Tensor Completion], 
 /IEEE Transactions on Neural Networks and Learning Systems/, 30(6):1659-1671, 2019.
-[https://github.com/xjzhang008/XJZHANG Code]\n
+[https://github.com/xjzhang008/PLM/archive/master.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://link.springer.com/article/10.1007/s10915-018-0888-2 
 A Fast Algorithm for Solving Linear Inverse Problems with Uniform Noise Removal], 
 /Journal of Scientific Computing/, 79(2):1214-1240, 2019. \n
@@ -40,7 +39,7 @@ Structured Convex Optimization Method for Orthogonal Nonnegative Matrix Factoriz
 /Journal of Scientific Computing/, 75(3):1535-1554, 2018. \n
 . Xiongjun Zhang, Minru Bai, and Michael K. Ng.
 [https://epubs.siam.org/doi/10.1137/16M1076034 Nonconvex-TV Based Image Restoration with Impulse Noise Removal], 
-/SIAM Journal on Imaging Sciences/, 10(3):1627-1667, 2017. [https://github.com/xjzhang008/Nonconvex-TV Code]\n
+/SIAM Journal on Imaging Sciences/, 10(3):1627-1667, 2017. [https://github.com/xjzhang008/Nonconvex-TV/archive/master.zip Code]\n
 . Xiongjun Zhang, Bahram Javidi, and Michael K. Ng. [https://www.osapublishing.org/ao/abstract.cfm?uri=ao-56-9-D47
 Automatic regularization parameter selection by generalized cross-validation for total variational Poisson noise removal], 
 /Applied Optics/. 56(9):D47-D51, 2017.\n
