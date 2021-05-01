@@ -16,7 +16,7 @@ My [https://scholar.google.com/citations?user=9IQ2e6QAAAAJ&hl=en&oi=sra Google S
 
 == Research Areas
 ~~~
-- Image Processing
-- Tensor Optimization
-- Machine Learning
+- Image Processing: Image restoration
+- Tensor Optimization: Low-rank and sparse tensor optimization, tensor decomposition and their applications in imaging sciences
+- Machine Learning: Multitask learning
 ~~~
