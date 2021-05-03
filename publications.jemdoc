@@ -41,6 +41,7 @@ Structured Convex Optimization Method for Orthogonal Nonnegative Matrix Factoriz
 . Xiongjun Zhang, Minru Bai, and Michael K. Ng.
 [https://epubs.siam.org/doi/10.1137/16M1076034 Nonconvex-TV Based Image Restoration with Impulse Noise Removal], 
 /SIAM Journal on Imaging Sciences/, 10(3):1627-1667, 2017. [https://github.com/xjzhang008/Nonconvex-TV/archive/master.zip Code]\n
+. Duo Qiu, Xiongjun Zhang, and Lei Zhang. [https://www.degruyter.com/document/doi/10.1515/ijeeps-2016-0278/html Distributed Optimization Operation Strategy for Charging Stations Under Demand Response], International Journal of Emerging Electric Power Systems, 18(4):20160278, 2017.
 . Xiongjun Zhang, Bahram Javidi, and Michael K. Ng. [https://www.osapublishing.org/ao/abstract.cfm?uri=ao-56-9-D47
 Automatic regularization parameter selection by generalized cross-validation for total variational Poisson noise removal], 
 /Applied Optics/. 56(9):D47-D51, 2017.\n
