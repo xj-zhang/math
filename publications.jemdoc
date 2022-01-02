@@ -3,11 +3,11 @@
 
 == Preprints
 
-. Xiongjun Zhang and Michael K. Ng. Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations, 2020. [https://arxiv.org/abs/2007.10626 arXiv] \n
-. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. On O(max{n1,n2}log(max{n1,n2}n3)) Sample Entries for n1×n2×n3 Tensor Completion via Unitary Transformation, 2020. [https://arxiv.org/abs/2012.08784 arXiv] \n
+. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. On O(max{n1,n2}log(max{n1,n2}n3)) Sample Entries for n1×n2×n3 Tensor Completion via Unitary Transformation, under review, 2020. [https://arxiv.org/abs/2012.08784 arXiv] \n
 
 == Publications
 
+. Xiongjun Zhang and Michael K. Ng. Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations, IEEE Transactions on Information Theory, accepted, 2022. [https://arxiv.org/abs/2007.10626 arXiv] \n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, accepted, 2021. \n
 . Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
 . Chuan Chen, Zhe-Bin Wu, Zi-Tai Chen, Zi-Bin Zheng, and Xiong-Jun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0020025521002681 Auto-weighted Robust Low-Rank Tensor Completion via Tensor-Train], /Information Sciences/, 567:100-115, 2021.
