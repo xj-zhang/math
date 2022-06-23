@@ -7,6 +7,7 @@
 
 == Publications
 
+. Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion, /Journal of Scientific Computing/, accepted, 2022. [https://arxiv.org/abs/2110.08774 arXiv]
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, accepted, 2021. [https://github.com/xjzhang008/LRTCPoisson/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9680729 Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations], /IEEE Transactions on Information Theory/, 68(4):2551-2572, 2022. \n
 . Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
