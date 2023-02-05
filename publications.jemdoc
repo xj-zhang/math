@@ -3,14 +3,17 @@
 
 == Preprints
 
+. Xiongjun Zhang and Michael K. Ng. Sparse Nonnegative Tucker Decomposition and Completion under Noisy Observations, 2022. [https://arxiv.org/abs/2208.08287 arXiv] \n
+. Sijia Xia, Duo Qiu, and Xiongjun Zhang. Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment, 2022. [https://arxiv.org/abs/2212.05719 arXiv] \n
 . Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. Tensor Completion by Multi-Rank via Unitary Transformation, 2020. [https://arxiv.org/abs/2012.08784 arXiv] \n
+
 
 == Publications
 
-. Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion, /Journal of Scientific Computing/, accepted, 2022. [https://arxiv.org/abs/2110.08774 arXiv]
+. Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. [https://link.springer.com/article/10.1007/s10915-022-01937-1 Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion], /Journal of Scientific Computing/, 92(3):Article number: 83, 2022. \n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, 44(8):4239-4251, 2022. [https://github.com/xjzhang008/LRTCPoisson/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9680729 Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations], /IEEE Transactions on Information Theory/, 68(4):2551-2572, 2022. \n
-. Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
+. Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/ftr/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
 . Chuan Chen, Zhe-Bin Wu, Zi-Tai Chen, Zi-Bin Zheng, and Xiong-Jun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0020025521002681 Auto-weighted Robust Low-Rank Tensor Completion via Tensor-Train], /Information Sciences/, 567:100-115, 2021.
 . Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s10915-021-01437-8 Robust Low Transformed Multi-Rank Tensor Methods for Image Alignment], /Journal of Scientific Computing/, 87(1):Article number: 24, 2021. \n
 . Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://iopscience.iop.org/article/10.1088/1361-6420/abd85b Nonlocal Robust Tensor Recovery with Nonconvex Regularization], /Inverse Problems/, 37(3):035001, 2021. \n
