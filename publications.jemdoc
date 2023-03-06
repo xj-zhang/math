@@ -10,6 +10,7 @@
 
 == Publications
 
+. Yao Li, Duo Qiu, and Xiongjun Zhang. Robust Low Transformed Multi-Rank Tensor Completion with Deep Prior Regularization for Multi-Dimensional Image Recovery, IEEE Transactions on Big Data, accepted, 2023.
 . Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. [https://link.springer.com/article/10.1007/s10915-022-01937-1 Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion], /Journal of Scientific Computing/, 92(3):Article number: 83, 2022. \n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, 44(8):4239-4251, 2022. [https://github.com/xjzhang008/LRTCPoisson/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9680729 Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations], /IEEE Transactions on Information Theory/, 68(4):2551-2572, 2022. \n
