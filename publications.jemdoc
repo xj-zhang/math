@@ -5,12 +5,14 @@
 
 . Xiongjun Zhang and Michael K. Ng. Sparse Nonnegative Tucker Decomposition and Completion under Noisy Observations, 2022. [https://arxiv.org/abs/2208.08287 arXiv] \n
 . Sijia Xia, Duo Qiu, and Xiongjun Zhang. Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment, 2022. [https://arxiv.org/abs/2212.05719 arXiv] \n
-. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. Tensor Completion by Multi-Rank via Unitary Transformation, 2020. [https://arxiv.org/abs/2012.08784 arXiv] \n
+
 
 
 == Publications
 
-. Yao Li, Duo Qiu, and Xiongjun Zhang. Robust Low Transformed Multi-Rank Tensor Completion with Deep Prior Regularization for Multi-Dimensional Image Recovery, IEEE Transactions on Big Data, accepted, 2023.
+. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. Tensor Completion by Multi-Rank via Unitary Transformation, /Applied and Computational Harmonic Analysis/, accepted, 2023. [https://arxiv.org/abs/2012.08784 arXiv] \n
+. Ben-Zheng Li, Xi-Le Zhao, Xiong-Jun Zhang, Teng-Yu Ji, Xin-Yu Chen, and Michael K. Ng. A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion, /SIAM Journal on Imaging Sciences/, accepted, 2023. \n
+. Yao Li, Duo Qiu, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10064022 Robust Low Transformed Multi-Rank Tensor Completion with Deep Prior Regularization for Multi-Dimensional Image Recovery], /IEEE Transactions on Big Data/, accepted, 2023. [https://github.com/xjzhang008/Deep-Prior/archive/refs/heads/main.zip Code]\n
 . Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. [https://link.springer.com/article/10.1007/s10915-022-01937-1 Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion], /Journal of Scientific Computing/, 92(3):Article number: 83, 2022. \n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, 44(8):4239-4251, 2022. [https://github.com/xjzhang008/LRTCPoisson/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9680729 Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations], /IEEE Transactions on Information Theory/, 68(4):2551-2572, 2022. \n
