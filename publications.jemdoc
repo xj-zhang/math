@@ -7,16 +7,17 @@
 . Sijia Xia, Duo Qiu, and Xiongjun Zhang. Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment, 2022. [https://arxiv.org/abs/2212.05719 arXiv] \n
 
 
-
 == Publications
 
-. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S1063520323000283 Tensor Completion by Multi-Rank via Unitary Transformation], /Applied and Computational Harmonic Analysis/, accepted, 2023. \n
-. Ben-Zheng Li, Xi-Le Zhao, Xiong-Jun Zhang, Teng-Yu Ji, Xin-Yu Chen, and Michael K. Ng. A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion, /SIAM Journal on Imaging Sciences/, accepted, 2023. \n
 . Yao Li, Duo Qiu, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10064022 Robust Low Transformed Multi-Rank Tensor Completion with Deep Prior Regularization for Multi-Dimensional Image Recovery], /IEEE Transactions on Big Data/, accepted, 2023. [https://github.com/xjzhang008/Deep-Prior/archive/refs/heads/main.zip Code]\n
+. Xiongjun Zhang, Jin Wu, and Michael K. Ng. Multilinear Multitask Learning by Transformed Tensor Singular Value Decomposition, /Machine Learning with Applications/, 2023.
+. Ben-Zheng Li, Xi-Le Zhao, Xiong-Jun Zhang, Teng-Yu Ji, Xin-Yu Chen, and Michael K. Ng. A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion, /SIAM Journal on Imaging Sciences/, accepted, 2023. \n
+. Tianchi Liao, Zhebin Wu, Chuan Chen, Zibin Zheng, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0031320323003254 Tensor Completion via Convolutional Sparse Coding with Small Samples-Based Training], /Pattern Recognition/, 141:109624, 2023.
+. Guang-Jing Song, Michael K. Ng, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S1063520323000283 Tensor Completion by Multi-Rank via Unitary Transformation], /Applied and Computational Harmonic Analysis/, 65:348-373, 2023. \n
 . Ben-Zheng Li, Xi-Le Zhao, Teng-Yu Ji, Xiong-Jun Zhang, and Ting-Zhu Huang. [https://link.springer.com/article/10.1007/s10915-022-01937-1 Nonlinear Transform Induced Tensor Nuclear Norm for Tensor Completion], /Journal of Scientific Computing/, 92(3):Article number: 83, 2022. \n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9354598 Low Rank Tensor Completion with Poisson Observations], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, 44(8):4239-4251, 2022. [https://github.com/xjzhang008/LRTCPoisson/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang and Michael K. Ng. [https://ieeexplore.ieee.org/document/9680729 Sparse Nonnegative Tensor Factorization and Completion with Noisy Observations], /IEEE Transactions on Information Theory/, 68(4):2551-2572, 2022. \n
-. Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/ftr/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
+. Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2403 Robust Tensor Train Component Analysis], /Numerical Linear Algebra with Applications/, 29(1):e2403, 2022. \n
 . Chuan Chen, Zhe-Bin Wu, Zi-Tai Chen, Zi-Bin Zheng, and Xiong-Jun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0020025521002681 Auto-weighted Robust Low-Rank Tensor Completion via Tensor-Train], /Information Sciences/, 567:100-115, 2021.
 . Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s10915-021-01437-8 Robust Low Transformed Multi-Rank Tensor Methods for Image Alignment], /Journal of Scientific Computing/, 87(1):Article number: 24, 2021. \n
 . Duo Qiu, Minru Bai, Michael K. Ng, and Xiongjun Zhang. [https://iopscience.iop.org/article/10.1088/1361-6420/abd85b Nonlocal Robust Tensor Recovery with Nonconvex Regularization], /Inverse Problems/, 37(3):035001, 2021. \n
@@ -49,7 +50,7 @@ Structured Convex Optimization Method for Orthogonal Nonnegative Matrix Factoriz
 . Xiongjun Zhang, Minru Bai, and Michael K. Ng.
 [https://epubs.siam.org/doi/10.1137/16M1076034 Nonconvex-TV Based Image Restoration with Impulse Noise Removal], 
 /SIAM Journal on Imaging Sciences/, 10(3):1627-1667, 2017. [https://github.com/xjzhang008/Nonconvex-TV/archive/master.zip Code]\n
-. Duo Qiu, Xiongjun Zhang, and Lei Zhang. [https://www.degruyter.com/document/doi/10.1515/ijeeps-2016-0278/html Distributed Optimization Operation Strategy for Charging Stations Under Demand Response], International Journal of Emerging Electric Power Systems, 18(4):20160278, 2017.
+. Duo Qiu, Xiongjun Zhang, and Lei Zhang. [https://www.degruyter.com/document/doi/10.1515/ijeeps-2016-0278/html Distributed Optimization Operation Strategy for Charging Stations Under Demand Response], /International Journal of Emerging Electric Power Systems/, 18(4):20160278, 2017.
 . Xiongjun Zhang, Bahram Javidi, and Michael K. Ng. [https://www.osapublishing.org/ao/abstract.cfm?uri=ao-56-9-D47
 Automatic regularization parameter selection by generalized cross-validation for total variational Poisson noise removal], 
 /Applied Optics/. 56(9):D47-D51, 2017.\n
