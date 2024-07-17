@@ -35,7 +35,7 @@ Constrained Low-Tubal-Rank Tensor Recovery in Hyperspectral Images Denoising], /
 Patched-Tubes Unitary Transform for Robust Tensor Completion], /Pattern Recognition/, 100:107181, 2020. \n
 . Xiongjun Zhang and Michael K. Ng. [https://epubs.siam.org/doi/10.1137/18M1202311 
 A Corrected Tensor Nuclear Norm Minimization Method for Noisy Low-Rank Tensor Completion], 
-/SIAM Journal on Imaging Sciences/, 12(2):1231-1273, 2019. \n
+/SIAM Journal on Imaging Sciences/, 12(2):1231-1273, 2019. [https://github.com/xjzhang008/CTNN/archive/refs/heads/main.zip Code]\n
 . Xiongjun Zhang. [https://ieeexplore.ieee.org/document/8497036 A Nonconvex Relaxation Approach to Low-Rank Tensor Completion], 
 /IEEE Transactions on Neural Networks and Learning Systems/, 30(6):1659-1671, 2019.
 [https://github.com/xjzhang008/PLM/archive/master.zip Code]\n
