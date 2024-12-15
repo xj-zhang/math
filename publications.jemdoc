@@ -2,13 +2,14 @@
 == Papers
 
 == Preprints
-
-. Xiongjun Zhang and Michael K. Ng. Sparse Nonnegative Tucker Decomposition and Completion under Noisy Observations, 2022. [https://arxiv.org/abs/2208.08287 arXiv] \n
+. Sijia Xia, Michael K. Ng, and Xiongjun Zhang. Low-Rank Tensor Learning by Generalized Nonconvex Regularization, 2024. [https://arxiv.org/abs/2410.18402 arXiv] \n
+. Xiongjun Zhang and Michael K. Ng. Noisy  Nonnegative Tucker Decomposition with Sparse Factors and Missing Data, 2022. [https://arxiv.org/abs/2208.08287 arXiv] \n
+. Duo Qiu, Sijia Xia, Bei Yang, Bo Li, and Xiongjun Zhang. Poisson Tensor Completion via Nonconvex Regularization and Nonlocal Self-Similarity for Multi-dimensional Image  Recovery, Journal of Scientific Computing, 2024.
 
 == Publications
 
-. Duo Qiu, Bei Yang, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10556743 Robust Tensor Completion via Dictionary Learning and Generalized Nonconvex Regularization for Visual Data Recovery], /IEEE Transactions on Circuits and Systems for Video Technology/, accepted, 2024. [https://github.com/xjzhang008/RTCDLN/archive/refs/heads/main.zip Code] \n
-. Duo Qiu, Michael K. Ng, and Xiongjun Zhang. [https://www.global-sci.org/intro/online/read?online_id=2102 Low-Rank Matrix Completion with Poisson Observations via Nuclear Norm and Total Variation Constraints], /Journal of Computational Mathematics/, accepted, 2023. \n
+. Duo Qiu, Bei Yang, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10556743 Robust Tensor Completion via Dictionary Learning and Generalized Nonconvex Regularization for Visual Data Recovery], /IEEE Transactions on Circuits and Systems for Video Technology/, 34(11):11026-11039, 2024. [https://github.com/xjzhang008/RTCDLN/archive/refs/heads/main.zip Code] \n
+. Duo Qiu, Michael K. Ng, and Xiongjun Zhang. [https://www.global-sci.org/intro/online/read?online_id=2102 Low-Rank Matrix Completion with Poisson Observations via Nuclear Norm and Total Variation Constraints], /Journal of Computational Mathematics/, 42(6):1427-1451, 2024. \n
 . Sijia Xia, Duo Qiu, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s11075-023-01607-9 Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment], /Numerical Algorithms/, 95(3): 1251-1289, 2024. [https://github.com/xjzhang008/Image-Alginment-2023/archive/refs/heads/main.zip Code] \n
 . Ben-Zheng Li, Xi-Le Zhao, Xiongjun Zhang, Teng-Yu Ji, Xinyu Chen, and Michael K. Ng. [https://epubs.siam.org/doi/10.1137/22M1531907 A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion], /SIAM Journal on Imaging Sciences/, 16(3):1370-1397, 2023. \n
 . Yao Li, Duo Qiu, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10064022 Robust Low Transformed Multi-Rank Tensor Completion with Deep Prior Regularization for Multi-Dimensional Image Recovery], /IEEE Transactions on Big Data/, 9(5):1288-1301, 2023. [https://github.com/xjzhang008/Deep-Prior/archive/refs/heads/main.zip Code]\n
