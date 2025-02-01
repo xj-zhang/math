@@ -8,7 +8,7 @@
 == Publications
 
 . Xiongjun Zhang and Michael K. Ng. Noisy Nonnegative Tucker Decomposition with Sparse Factors and Missing Data, /Numerical Linear Algebra with Applications/, accepted, 2025. [https://arxiv.org/abs/2208.08287 arXiv] \n
-. Duo Qiu, Sijia Xia, Bei Yang, Bo Li, and Xiongjun Zhang. Poisson Tensor Completion via Nonconvex Regularization and Nonlocal Self-Similarity for Multi-dimensional Image  Recovery, /Journal of Scientific Computing/, accepted, 2025.
+. Duo Qiu, Sijia Xia, Bei Yang, Bo Li, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s10915-025-02801-8 Poisson Tensor Completion via Nonconvex Regularization and Nonlocal Self-Similarity for Multi-dimensional Image  Recovery], /Journal of Scientific Computing/, 102(3): 76, 2025.
 . Duo Qiu, Bei Yang, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10556743 Robust Tensor Completion via Dictionary Learning and Generalized Nonconvex Regularization for Visual Data Recovery], /IEEE Transactions on Circuits and Systems for Video Technology/, 34(11):11026-11039, 2024. [https://github.com/xjzhang008/RTCDLN/archive/refs/heads/main.zip Code] \n
 . Duo Qiu, Michael K. Ng, and Xiongjun Zhang. [https://www.global-sci.org/intro/online/read?online_id=2102 Low-Rank Matrix Completion with Poisson Observations via Nuclear Norm and Total Variation Constraints], /Journal of Computational Mathematics/, 42(6):1427-1451, 2024. \n
 . Sijia Xia, Duo Qiu, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s11075-023-01607-9 Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment], /Numerical Algorithms/, 95(3): 1251-1289, 2024. [https://github.com/xjzhang008/Image-Alginment-2023/archive/refs/heads/main.zip Code] \n
