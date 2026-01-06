@@ -2,11 +2,12 @@
 == Papers
 
 == Preprints
-. Sijia Xia, Michael K. Ng, and Xiongjun Zhang. Low-Rank Tensor Learning by Generalized Nonconvex Regularization, 2024. [https://arxiv.org/abs/2410.18402 arXiv] \n
+. Sijia Xia, Michael K. Ng, and Xiongjun Zhang. Sparse Tucker Decomposition and Graph Regularization for High-dimensional Time Series Forecasting, 2026, [https://arxiv.org/abs/2601.00377 arXiv].
 
 == Publications
 
-. Duo Qiu, Tao Li, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/11262236 Hyperspectral Image Denoising via Transformed Tensor Nuclear Norm and  Nonconvex Regularization in Spatial-Spectral Gradient Domains], /IEEE Transactions on Geoscience and Remote Sensing/, accepted, 2025. \n
+. Sijia Xia, Michael K. Ng, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/11328899 Low-Rank Tensor Learning by Generalized Nonconvex Regularization], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, accepted, 2026.  \n
+. Duo Qiu, Tao Li, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/11262236 Hyperspectral Image Denoising via Transformed Tensor Nuclear Norm and  Nonconvex Regularization in Spatial-Spectral Gradient Domains], /IEEE Transactions on Geoscience and Remote Sensing/, 63, Art. no. 5533915, 2025. \n
 . Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/full/10.1002/nla.70009 Noisy Non-Negative Tucker Decomposition With Sparse Factors and Missing Data], /Numerical Linear Algebra with Applications/, 32(1): e70009, 2025. [https://github.com/xjzhang008/SpareNTD/archive/refs/heads/main.zip Code] \n
 . Duo Qiu, Sijia Xia, Bei Yang, Bo Li, and Xiongjun Zhang. [https://link.springer.com/article/10.1007/s10915-025-02801-8 Poisson Tensor Completion via Nonconvex Regularization and Nonlocal Self-Similarity for Multi-dimensional Image  Recovery], /Journal of Scientific Computing/, 102(3): 76, 2025. \n
 . Duo Qiu, Bei Yang, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/10556743 Robust Tensor Completion via Dictionary Learning and Generalized Nonconvex Regularization for Visual Data Recovery], /IEEE Transactions on Circuits and Systems for Video Technology/, 34(11):11026-11039, 2024. [https://github.com/xjzhang008/RTCDLN/archive/refs/heads/main.zip Code] \n
