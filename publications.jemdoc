@@ -6,7 +6,7 @@
 
 == Publications
 
-. Wenhao Xiong, Zexuan Wei, and Xiongjun Zhang. High-Order Tensor Completion via Learnable Nonlinear Transformation and Sparse Regularization, /Pattern Recognition/, accepted, 2026. [https://github.com/xjzhang008/TensorLTHTCSR Code] \n
+. Wenhao Xiong, Zexuan Wei, and Xiongjun Zhang. [https://www.sciencedirect.com/science/article/abs/pii/S0031320326008666 High-Order Tensor Completion via Learnable Nonlinear Transformation and Sparse Regularization], /Pattern Recognition/, accepted, 2026. [https://github.com/xjzhang008/TensorLTHTCSR Code] \n
 . Sijia Xia, Michael K. Ng, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/11328899 Low-Rank Tensor Learning by Generalized Nonconvex Regularization], /IEEE Transactions on Pattern Analysis and Machine Intelligence/, 48(5):5604-5619, 2026.  \n
 . Duo Qiu, Tao Li, and Xiongjun Zhang. [https://ieeexplore.ieee.org/document/11262236 Hyperspectral Image Denoising via Transformed Tensor Nuclear Norm and  Nonconvex Regularization in Spatial-Spectral Gradient Domains], /IEEE Transactions on Geoscience and Remote Sensing/, 63, Art. no. 5533915, 2025. \n
 . Xiongjun Zhang and Michael K. Ng. [https://onlinelibrary.wiley.com/doi/full/10.1002/nla.70009 Noisy Non-Negative Tucker Decomposition With Sparse Factors and Missing Data], /Numerical Linear Algebra with Applications/, 32(1): e70009, 2025. [https://github.com/xjzhang008/SpareNTD/archive/refs/heads/main.zip Code] \n
